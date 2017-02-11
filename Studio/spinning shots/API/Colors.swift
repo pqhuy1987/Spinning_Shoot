@@ -13,13 +13,13 @@ import UIKit
  */
 public struct Colors {
     
-    public static let Background = UIColor(hex: "#F0F5F9")
+    public static let Background = UIColor(hex: "#1797FF")
 
     public static let Stroke = UIColor(hex: "#1E2022")
     
     public static let Cannon = UIColor(hex: "#C9D6DF")
     public static let Bullet = UIColor(hex: "#1E2022")
-    public static let Target = UIColor(hex: "#52616B")
+    public static let Target = UIColor(hex: "#22CD71")
     
     public static let Clear = UIColor.clear
     
