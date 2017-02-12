@@ -451,7 +451,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_SWIFT_FLAGS = "-D INSTANCECOUNTING";
-				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.spinning.100;
+				PRODUCT_BUNDLE_IDENTIFIER = com.studio.minesweeper2.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SWIFT_VERSION = 3.0;
@@ -468,7 +468,7 @@
 				INFOPLIST_FILE = "spinning shots/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.spinning.100;
+				PRODUCT_BUNDLE_IDENTIFIER = com.studio.minesweeper2.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SWIFT_VERSION = 3.0;
